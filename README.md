@@ -1,2 +1,2 @@
 # hello-world
-das ist mein erstes mal 
+log("Hello World");
